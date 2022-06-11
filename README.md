@@ -2,7 +2,7 @@
 ## Frontend Web Developer
 I'm Jeuri from New York City, and I really enjoy improving my skills and learning new things.  
 - 🔭 I’m currently working on getting a job. 
-- 🌱 I’m currently learning how to become employable. 
+- 🌱 I’m currently learning PHP. 
 - 📫 How to reach me:
   - Email: jeuri.mrl@gmail.com 
   - [Twitter](https://twitter.com/codeToPerdition)
